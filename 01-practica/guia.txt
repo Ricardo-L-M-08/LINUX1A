@@ -1,0 +1,38 @@
+Abrir navegador
+buscar virtual box y descargar la version correspondiente (en mi caso la 7.2.16)
+luego buscar ubuntu y descargar la version correspondiente (en mi caso fue la 26.04)
+asegurarse de haber descargado la version iso
+abrir oracle virtualbox y darle en nuevo
+darle un nombre a la maquina (Ubuntu Ricardo)
+seleccionar la carpeta donde se situara la maquina (en documentos Ubuntu Linux Ricardo)
+Seleccionar la versión iso de Ubuntu
+configurar la maquina segun las capacidades la computadora
+4gb de ram y 3ghz de fuerza con un tamaño de 50gb
+dar nombre de usuario y contraseña
+abrir Ubuntu y esperar a que termine de cargar
+cuando termine cerrar y apagar la maquina para evitar que consuma datos 
+entrar en github y crear una cuenta
+descargar la version para escritorio de github y vincular
+buscar en el navegador visual studio code y descargarlo 
+vincular visual studio code con la cuenta de github
+buscar y descargar git para windows x64bit (en mi caso la version standalone) 
+aceptar condiciones y darle a todo que next en configuración de git
+abrir github y crear un supositorio 
+con nombre LINUX1A
+sin descripción 
+dejarlo en publico
+encender add readme
+ponerle en no. gitignore Node para desactivarlo
+añadir la licencia GNU V.3.0
+Crear supositorio 
+luego abrir github de escritorio y cargar el supositorio a los archivos de la computadora
+abrir visual studio code e ir a source control
+darle en clonar supositorio
+darle en que sacarlo de github
+seleccionar el supositorio 
+buscarlo en los archivos de la computadora y seleccionarlo 
+luego crear un nuevo folder en el supositorio en visual studio code 
+llamar a la carpeta 01-practica
+luego crear un archivo en la carpeta
+llamarlo guia.txt
+registrar todos los pasos ejecutados hasta ahora.
