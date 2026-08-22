@@ -36,3 +36,15 @@ llamar a la carpeta 01-practica
 luego crear un archivo en la carpeta
 llamarlo guia.txt
 registrar todos los pasos ejecutados hasta ahora.
+Ahora abrir la pestaña que menciona Terminal
+en esa pestaña abrir una nueva Terminal
+luego introducir los siguientes codigos
+"git config --global user.email "ricardo.lpz.0991@gmail"
+"git config --global user.name "Rikka-San"
+luego dar el siguiente comando en la parte de commit 
+CREATE guia.txt
+luego darle en commit y despues en sync
+una vez hecho esto abri github de escritorio y le di en "Commit 1 file to main" 
+despues de esto verificar en git hub y dar autorizacion para que se sincronicen las cuentas 
+revisar en github mi supositorios creados y efectivamente ahi se encontraba mi supositorio que realice en visual studio code
+guardar cambios y emitir otro commit ahora con el comando de UPDATE guia.txt con el nombre de practica 02
