@@ -48,3 +48,5 @@ una vez hecho esto abri github de escritorio y le di en "Commit 1 file to main"
 despues de esto verificar en git hub y dar autorizacion para que se sincronicen las cuentas 
 revisar en github mi supositorios creados y efectivamente ahi se encontraba mi supositorio que realice en visual studio code
 guardar cambios y emitir otro commit ahora con el comando de UPDATE guia.txt 
+Ahora abrimos la virtual box de Ubuntu para ingresar codigos
+en Ubuntu nos vamos a terminal para empezar con los codigos
